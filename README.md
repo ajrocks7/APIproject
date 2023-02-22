@@ -5,6 +5,7 @@ In this guide, we will be using Passport for a REST API Presentation.
 ## Prerequisites
 - Setup the Laravel project
 - php -v ^8.0.2 installed
+- Postman
 
 ## Steps
 1. Clone the Project and Go to the project directory and open a terminal window.
